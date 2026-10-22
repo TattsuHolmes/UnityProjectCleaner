@@ -1,4 +1,4 @@
-# Unityの容量整理ツール(UnityProjectCleaner)
+# Unityの容量整理ツール(Unity Project Cleaner)
 Unityプロジェクトの不要なファイルやフォルダ（`Library`, `Temp`, `Logs`, `obj`, `.vs` など）をドラッグ＆ドロップで一括削除し、ストレージ容量を大幅に軽量化するWindows用デスクトップツールです。
 
 ## 🎥 動作イメージ
